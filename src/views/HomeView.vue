@@ -4,6 +4,7 @@
     <Contador/>
     <Cuadrado/>
     <Botones/>
+    <p>Este es un cambio</p>
   </div>
 </template>
 
